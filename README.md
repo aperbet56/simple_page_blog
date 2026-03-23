@@ -1,0 +1,1 @@
+## SIMPLE PAGE BLOG
