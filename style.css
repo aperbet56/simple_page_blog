@@ -64,10 +64,11 @@ header .info .tags h1 {
     margin: 20px 0;
     font-size: 3rem;
     font-weight: 700;
+    padding-inline: 8px;
 }
 
 header .info .subtitle {
-    min-width: 70%;
+    width: 100%;
     margin: 0 auto 20px;
     font-size: 1rem;
     line-height: 1.7;
