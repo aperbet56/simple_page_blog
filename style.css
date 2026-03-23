@@ -143,3 +143,19 @@ footer {
     font-size: 1.2rem;
     text-align: center;
 }
+
+/**** Responsive design version tablette ****/
+
+@media screen and (max-width: 991px) {
+    body {
+        padding: 30px;
+    }
+
+    .details {
+        flex-direction: column;
+    }
+
+    .details .item:not(:last-child) {
+        margin-bottom: 30px;
+    }
+}
