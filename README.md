@@ -8,7 +8,7 @@ Création d'une page de blog simple et entièrement responsive. Pour se faire, j
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/simple_page_blog/
 
 ## Projet développé avec
 
