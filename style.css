@@ -159,3 +159,28 @@ footer {
         margin-bottom: 30px;
     }
 }
+
+/**** Responsive design version mobile ****/
+
+@media screen and (max-width: 767px) {
+    body {
+        padding: 20px;
+    }
+
+    header {
+        padding: 15px;
+        min-height: 300px;
+    }
+
+    header .category {
+        font-size: 0.9rem;
+    }
+
+    header .info .tags i {
+        display: none;
+    }
+
+    header .info .tags h1 {
+        font-size: 2rem;
+    }
+}
