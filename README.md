@@ -1,8 +1,10 @@
 ## SIMPLE PAGE BLOG
 
+![preview](img/preview.png)
+
 ## Le challenge
 
-Création d'une page de blog simple et entièrement responsive. Pour se faire, j'ai utilisé la propriété css flexbox et les medias queries pour rendre le projet responsive, ainsi que la propriété background pour son arrière-plan.
+Création d'une page de blog simple et entièrement responsive. Pour se faire, j'ai utilisé la propriété css flexbox et les medias queries pour rendre le projet responsive, ainsi que la propriété background pour l'arrière-plan.
 
 ## Démonstration
 
